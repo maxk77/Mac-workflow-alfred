@@ -49,7 +49,7 @@ Mac勿扰模式没有定时关闭的功能对于我来说一直是个痛点，�
 
 接下来输入总学习时间，接下来系统会在这个时间之内不断的循环番茄钟（fucus+休息）
 
-默认为：一直循环番茄钟到晚上23:15分，这是我自己的习惯，用户可以在Applescript里面自定义。
+默认为：一直循环番茄钟到晚上23:15分，这是我自己的习惯，可以在Applescript里面自定义。
 
 <br>
 <br>
@@ -61,10 +61,12 @@ Mac勿扰模式没有定时关闭的功能对于我来说一直是个痛点，�
 ![customize1](https://github.com/max-yeah/Mac-workflow-alfred/blob/master/picture/customize1.png)
 
 点最右边run script那个小块，展开AppleScript代码
+<br>
 
 ![customize2](https://github.com/max-yeah/Mac-workflow-alfred/blob/master/picture/customize2.png)
 
-此处可以自己调整番茄钟模式的默认总时长：此处我设置为23:15分之前，可以根据逻辑自己更改
+此处可以自己调整番茄钟模式的默认总时长：我设置为23:15分之前，可以根据逻辑自己更改
+<br>
 
 ![customize3](https://github.com/max-yeah/Mac-workflow-alfred/blob/master/picture/customize3.png)
 
