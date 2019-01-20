@@ -93,4 +93,4 @@
 # 2. 可指定数量，批量删除iMessages信息
 
 
-![pricture1]()
+![pricture1](https://github.com/max-yeah/Mac-workflow-alfred/blob/master/picture/picture1.png)
