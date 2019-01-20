@@ -1,6 +1,6 @@
 # Mac-workflow-alfred
 
-Mac勿扰模式没有定时关闭的功能对于我来说一直是个痛点，本workflow给勿扰模式加入了定时关闭功能和番茄钟工作法的模式（需要系统热键配置）
+# 1. Mac勿扰模式没有定时关闭的功能对于我来说一直是个痛点，本workflow给勿扰模式加入了定时关闭功能和番茄钟工作法的模式（需要系统热键配置）
 
 本workflow配合Alfred使用，触发hotkey为nd（not disturb之意）
 
@@ -86,3 +86,11 @@ Mac勿扰模式没有定时关闭的功能对于我来说一直是个痛点，�
 ![notification3](https://github.com/max-yeah/Mac-workflow-alfred/blob/master/picture/notification3.png)
 
 通知的数字是根据用户输入的数字而定的
+
+
+
+
+# 2. 可指定数量，批量删除iMessages信息
+
+
+![pricture1]()
