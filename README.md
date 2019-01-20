@@ -1,8 +1,12 @@
 # Mac-workflow-alfred
 
-# 1. Mac勿扰模式没有定时关闭的功能对于我来说一直是个痛点，本workflow给勿扰模式加入了定时关闭功能和番茄钟工作法的模式（需要系统热键配置）
+# 1. Mac勿扰模式增强版（需要热键配置）
+Mac勿扰模式没有定时关闭的功能对于我来说一直是个痛点，本workflow给勿扰模式加入了定时关闭功能和番茄钟工作法的模式
 
 本workflow配合Alfred使用，触发hotkey为nd（not disturb之意）
+
+<br>
+
 
 ![open](https://github.com/max-yeah/Mac-workflow-alfred/blob/master/picture/open.png)
 <br>
