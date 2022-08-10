@@ -1,12 +1,22 @@
 # Mac-workflow-alfred
 
-# 1. Mac勿扰模式增强版（需要热键配置）
+# 1. Switch Audio input/output device
+
+Original script is from: https://github.com/rknightuk/alfred-workflows/tree/main/workflows/audio-device-selector
+
+I modify the js file to ensure the current device is always on top. I recommend you to open the source file and modify it based on your own situation.
+
+![open](https://github.com/max-yeah/Mac-workflow-alfred/blob/master/picture/audio.png)
+
+
+
+# 2. Mac勿扰模式增强版（需要热键配置）
+
 Mac勿扰模式没有定时关闭的功能对于我来说一直是个痛点，写了个workflow给勿扰模式加入了定时关闭功能和番茄钟工作法的模式
 
 本workflow配合Alfred使用，触发hotkey为nd（not disturb之意）
 
 <br>
-
 
 ![open](https://github.com/max-yeah/Mac-workflow-alfred/blob/master/picture/open.png)
 <br>
@@ -99,7 +109,7 @@ Mac勿扰模式没有定时关闭的功能对于我来说一直是个痛点，�
 <br>
 <br>
 
-# 2. 可指定数量，批量删除iMessages信息
+# 3. 可指定数量，批量删除iMessages信息
 
 
 ![pricture1](https://github.com/max-yeah/Mac-workflow-alfred/blob/master/picture/picture1.png)
