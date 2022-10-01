@@ -1,6 +1,19 @@
 # Mac-workflow-alfred
 
-# 1. Switch Audio input/output device
+# 1. Check hardware temp and fan speed
+
+Credit to: https://placeless.net/blog/istats-gem-and-alfred-workflow and I improve it a little bit.
+
+Requirement: Install [iStats](https://chris911.github.io/iStats/)
+
+![open](https://github.com/max-yeah/Mac-workflow-alfred/blob/master/picture/normal-fanspeed)
+
+![open](https://github.com/max-yeah/Mac-workflow-alfred/blob/master/picture/high-fanspeed)
+
+<br>
+<br>
+
+# 2. Switch Audio input/output device
 
 Original script is from: https://github.com/rknightuk/alfred-workflows/tree/main/workflows/audio-device-selector
 
@@ -8,9 +21,10 @@ I modify the js file to ensure the current device is always on top. I recommend 
 
 ![open](https://github.com/max-yeah/Mac-workflow-alfred/blob/master/picture/audio.png)
 
+<br>
+<br>
 
-
-# 2. Mac勿扰模式增强版（需要热键配置）
+# 3. Mac勿扰模式增强版（需要热键配置）
 
 Mac勿扰模式没有定时关闭的功能对于我来说一直是个痛点，写了个workflow给勿扰模式加入了定时关闭功能和番茄钟工作法的模式
 
@@ -109,7 +123,7 @@ Mac勿扰模式没有定时关闭的功能对于我来说一直是个痛点，�
 <br>
 <br>
 
-# 3. 可指定数量，批量删除iMessages信息
+# 4. 可指定数量，批量删除iMessages信息
 
 
 ![pricture1](https://github.com/max-yeah/Mac-workflow-alfred/blob/master/picture/picture1.png)
